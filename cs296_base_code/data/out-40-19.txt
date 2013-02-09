@@ -1,0 +1,7 @@
+Total Iterations: 40
+Average time per step is 0.756257 ms
+Average time for collisions is 0.556482 ms
+Average time for velocity updates is 6.64581 ms
+Average time for position updates is 6.56939 ms
+
+Total time for loop is 8.909 ms
